@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    width: 400px;
+}
+th {
+    border: 1px solid gray;
+    font-size: 17px;
+    align: center;
+    background: lavender;
+}
+td {
+    border: 1px solid gray;
+    padding: 5px;
+}
+.normal {
+    color: green;
+}
+.excess {
+    color: red;
+}
